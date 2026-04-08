@@ -4,64 +4,48 @@
 
 ## Introduction
 
-In this data analysis project, we will be analyzing a dataset containing information regarding University students' lifestyle and study habits, and understanding how lifestyle and habits influence academic performance and success.
+In this data analysis project, we will be analyzing a dataset containing information regarding University students' lifestyle and study habits, and understanding how different areas, such as lifestyle, habits, demographics, technology usage, influences academic performance and success.
 
 ---
 
 ## Questions
 
-In this data analysis project, we will be answering the following questions:
+In this data analysis project, we will be answering the following questions.
 
-### Descriptive
+### 1. Academic Performance
 
-- What are the average GPA, exam scores, and assignment scores?
-- How many hours do students typically spend on:
-  - Studying?
-  - Social media?
-  - Total screen time?
-- What is the distribution of:
-  - Sleep duration?
-  - Stress levels?
-  - Attendance rates?
-- What proportion of students regularly use AI tools?
+- What factors strongly predict GPA?
+- Is there a relationship between the number of hours student study per day with academic performance?
+- How much does class attendance influence academic performance?
+- Is there a correlation between assignment score and exam score?
 
-### Diagnostic
+### 2. Lifestyle & Habits
 
-Academic Behavior vs Performance
+- Is there a relationship between hours of sleep and GPA?
+- Is higher screen time associated with lower academic performance?
+- Do students who exercise more perform better academically?
 
-- How strongly are study hours correlated with:
-  - GPA?
-  - Exam scores?
-- Does class attendance significantly impact performance?
+### 3. Technology
 
-Lifestyle Factors
+- Is there a relationship between note taking method and academic performance?
+- Does social media usage hours correlate with lower academic performance?
 
-- Does sleep duration affect exam performance?
-- How does mental stress level relate to GPA?
-- Do students who exercise regularly perform better academically?
+### 4. Mental Health & Stress
 
-Digital Habits
+- How does mental stress affect GPA?
+- Do students with higher stress study more but perform worse?
+- Is stress related to the sleep hours, screen time, or social media hours?
 
-- Is social media usage negatively associated with academic performance?
-- How does total screen time compare to study hours in predicting scores?
-- Does AI tool usage improve or reduce performance?
+### 5. Demographics
 
-### Predictive
+- Does relationship status correlate with GPA?
+- Do students with part time jobs perform differently?
+- Does family income level impact academic performance?
+- Is there a GPA difference across gender? Country? Major?
 
-- Which factors best predict exam scores?
-- Can we predict GPA using:
-  - Study hours
-  - Sleep
-  - Attendance
-  - Stress
-- Which students are at risk of low performance based on lifestyle patterns?
+### 6. Predictive Modeling
 
-### Prescriptive
-
-- What is the optimal range of study hours for high performance?
-- How much sleep is associated with the best outcomes?
-- Should students reduce social media or screen time to improve scores?
-- Do stress-management or exercise habits appear to improve academic outcomes?
+- 
 
 ---
 
