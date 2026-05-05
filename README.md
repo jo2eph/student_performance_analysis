@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this data analysis project, we will be analyzing a dataset containing information regarding University students' lifestyle and study habits, and understanding how different areas, such as lifestyle, habits, demographics, technology usage, influences academic performance and success.
+In this data analysis project, we will be analyzing a dataset containing information regarding University students' lifestyle and study habits, and understanding how different factors, such as lifestyle, habits, demographics, technology usage, and socioeconomic status, influences academic performance and success.
 
 ---
 
@@ -45,7 +45,7 @@ In this data analysis project, we will be answering the following questions.
 
 ### 6. Predictive Modeling
 
-- 
+- Can we accurately predict students' GPA based on study time, attendance
 
 ---
 
